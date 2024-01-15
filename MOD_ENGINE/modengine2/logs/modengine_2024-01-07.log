@@ -1,0 +1,156 @@
+[2024-01-07 13:13:50.856] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:13:50.856] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:13:50.864] [modengine] [info] Local config loaded
+[2024-01-07 13:13:50.864] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:13:50.864] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:13:50.864] [modengine] [info] Main thread ID: 2940
+[2024-01-07 13:13:50.868] [modengine] [info] Enabling extension base
+[2024-01-07 13:13:50.868] [modengine] [info] Enabled extension base
+[2024-01-07 13:13:50.868] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:13:50.868] [modengine] [info] Installing mod location mod
+[2024-01-07 13:13:50.868] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:13:50.868] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:13:51.296] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:13:51.298] [modengine] [info] Starting worker thread
+[2024-01-07 13:17:50.293] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:17:50.293] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:17:50.301] [modengine] [info] Local config loaded
+[2024-01-07 13:17:50.301] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:17:50.301] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:17:50.301] [modengine] [info] Main thread ID: 8696
+[2024-01-07 13:17:50.304] [modengine] [info] Enabling extension base
+[2024-01-07 13:17:50.304] [modengine] [info] Enabled extension base
+[2024-01-07 13:17:50.304] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:17:50.304] [modengine] [info] Installing mod location mod
+[2024-01-07 13:17:50.304] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:17:50.304] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:17:50.395] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:17:50.397] [modengine] [info] Starting worker thread
+[2024-01-07 13:19:20.899] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:19:20.899] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:19:20.913] [modengine] [info] Local config loaded
+[2024-01-07 13:19:20.913] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:19:20.913] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:19:20.913] [modengine] [info] Main thread ID: 8684
+[2024-01-07 13:19:21.042] [modengine] [info] Loaded external DLL D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod\SetCPUAffinity.dll
+[2024-01-07 13:19:21.043] [modengine] [warning] External dll D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod\SetCPUAffinity.dll at base address 0x7ffd0ce80000 is not a modengine extension
+[2024-01-07 13:19:21.043] [modengine] [info] Enabling extension base
+[2024-01-07 13:19:21.043] [modengine] [info] Enabled extension base
+[2024-01-07 13:19:21.043] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:19:21.043] [modengine] [info] Installing mod location mod
+[2024-01-07 13:19:21.043] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:19:21.043] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:19:21.519] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:19:21.522] [modengine] [info] Starting worker thread
+[2024-01-07 13:22:04.789] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:22:04.789] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:22:04.790] [modengine] [info] Local config loaded
+[2024-01-07 13:22:04.790] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:22:04.790] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:22:04.790] [modengine] [info] Main thread ID: 9448
+[2024-01-07 13:22:04.793] [modengine] [info] Enabling extension base
+[2024-01-07 13:22:04.793] [modengine] [info] Enabled extension base
+[2024-01-07 13:22:04.793] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:22:04.793] [modengine] [info] Installing mod location mod
+[2024-01-07 13:22:04.793] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:22:04.793] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:22:04.930] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:22:04.932] [modengine] [info] Starting worker thread
+[2024-01-07 13:32:06.575] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:32:06.575] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:32:06.576] [modengine] [info] Local config loaded
+[2024-01-07 13:32:06.576] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:32:06.576] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:32:06.576] [modengine] [info] Main thread ID: 9004
+[2024-01-07 13:32:06.580] [modengine] [info] Enabling extension base
+[2024-01-07 13:32:06.580] [modengine] [info] Enabled extension base
+[2024-01-07 13:32:06.580] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:32:06.580] [modengine] [info] Installing mod location mod
+[2024-01-07 13:32:06.580] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:32:06.580] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:32:06.677] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:32:06.679] [modengine] [info] Starting worker thread
+[2024-01-07 13:56:51.501] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:56:51.501] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:56:51.502] [modengine] [info] Local config loaded
+[2024-01-07 13:56:51.502] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:56:51.502] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:56:51.502] [modengine] [info] Main thread ID: 1784
+[2024-01-07 13:56:51.506] [modengine] [info] Enabling extension base
+[2024-01-07 13:56:51.506] [modengine] [info] Enabled extension base
+[2024-01-07 13:56:51.506] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:56:51.506] [modengine] [info] Installing mod location mod
+[2024-01-07 13:56:51.506] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:56:51.506] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:56:51.850] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:56:51.852] [modengine] [info] Starting worker thread
+[2024-01-07 13:59:48.269] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 13:59:48.269] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 13:59:48.270] [modengine] [info] Local config loaded
+[2024-01-07 13:59:48.270] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 13:59:48.270] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 13:59:48.270] [modengine] [info] Main thread ID: 8960
+[2024-01-07 13:59:48.273] [modengine] [info] Enabling extension base
+[2024-01-07 13:59:48.273] [modengine] [info] Enabled extension base
+[2024-01-07 13:59:48.273] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 13:59:48.273] [modengine] [info] Installing mod location mod
+[2024-01-07 13:59:48.273] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 13:59:48.273] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 13:59:48.602] [modengine] [info] Applied 3 hooks
+[2024-01-07 13:59:48.604] [modengine] [info] Starting worker thread
+[2024-01-07 14:01:29.904] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 14:01:29.904] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 14:01:29.905] [modengine] [info] Local config loaded
+[2024-01-07 14:01:29.905] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 14:01:29.905] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 14:01:29.905] [modengine] [info] Main thread ID: 5184
+[2024-01-07 14:01:29.908] [modengine] [info] Enabling extension base
+[2024-01-07 14:01:29.908] [modengine] [info] Enabled extension base
+[2024-01-07 14:01:29.908] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 14:01:29.908] [modengine] [info] Installing mod location mod
+[2024-01-07 14:01:29.908] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 14:01:29.908] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 14:01:30.278] [modengine] [info] Applied 3 hooks
+[2024-01-07 14:01:30.280] [modengine] [info] Starting worker thread
+[2024-01-07 14:07:29.083] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 14:07:29.083] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 14:07:29.084] [modengine] [info] Local config loaded
+[2024-01-07 14:07:29.084] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 14:07:29.084] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 14:07:29.084] [modengine] [info] Main thread ID: 2832
+[2024-01-07 14:07:29.087] [modengine] [info] Enabling extension base
+[2024-01-07 14:07:29.087] [modengine] [info] Enabled extension base
+[2024-01-07 14:07:29.087] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 14:07:29.087] [modengine] [info] Installing mod location mod
+[2024-01-07 14:07:29.087] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 14:07:29.087] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 14:07:29.434] [modengine] [info] Applied 3 hooks
+[2024-01-07 14:07:29.436] [modengine] [info] Starting worker thread
+[2024-01-07 14:11:54.215] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 14:11:54.216] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 14:11:54.217] [modengine] [info] Local config loaded
+[2024-01-07 14:11:54.217] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 14:11:54.217] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 14:11:54.217] [modengine] [info] Main thread ID: 8280
+[2024-01-07 14:11:54.221] [modengine] [info] Enabling extension base
+[2024-01-07 14:11:54.221] [modengine] [info] Enabled extension base
+[2024-01-07 14:11:54.221] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 14:11:54.221] [modengine] [info] Installing mod location mod
+[2024-01-07 14:11:54.221] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 14:11:54.221] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 14:11:54.564] [modengine] [info] Applied 3 hooks
+[2024-01-07 14:11:54.565] [modengine] [info] Starting worker thread
+[2024-01-07 20:55:41.700] [modengine] [info] Attempting to load global config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\modengine2\config.toml
+[2024-01-07 20:55:41.701] [modengine] [info] Attempting to load mod settings config at D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\config_eldenring.toml
+[2024-01-07 20:55:41.702] [modengine] [info] Local config loaded
+[2024-01-07 20:55:41.703] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-01-07 20:55:41.703] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-01-07 20:55:41.703] [modengine] [info] Main thread ID: 1696
+[2024-01-07 20:55:41.709] [modengine] [info] Enabling extension base
+[2024-01-07 20:55:41.709] [modengine] [info] Enabled extension base
+[2024-01-07 20:55:41.709] [modengine] [info] Enabling extension mod_loader
+[2024-01-07 20:55:41.709] [modengine] [info] Installing mod location mod
+[2024-01-07 20:55:41.709] [modengine] [info] Resolved mod path to D:\Projects\_MODS\ELDEN_RING_MOD\MOD_ENGINE\mod
+[2024-01-07 20:55:41.709] [modengine] [info] Enabled extension mod_loader
+[2024-01-07 20:55:42.155] [modengine] [info] Applied 3 hooks
+[2024-01-07 20:55:42.157] [modengine] [info] Starting worker thread

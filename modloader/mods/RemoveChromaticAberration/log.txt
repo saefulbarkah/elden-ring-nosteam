@@ -1,0 +1,11 @@
+RemoveChromaticAberration > Activating RemoveChromaticAberration...
+RemoveChromaticAberration > Process name: eldenring.exe
+RemoveChromaticAberration > Process ID: 7112
+RemoveChromaticAberration > Process base address: 0x7FF7BD750000
+RemoveChromaticAberration > Pattern: 0xf 0x11 ? 0x60 ? 0x8d ? 0x80 0x0 0x0 0x0 0xf 0x10 ? 0xa0 0x0 0x0 0x0 0xf 0x11 ? 0xf0 ? 0x8d ? 0xb0 0x0 0x0 0x0 0xf 0x10 ? 0xf 0x11 ? 0xf 0x10 ? 0x10 
+RemoveChromaticAberration > Checking region: 00007FF7BD750000
+RemoveChromaticAberration > Found signature at 00007FF7BF290332
+RemoveChromaticAberration > Bytes at address: 0xf 0x11 0x49? 0x20? 
+RemoveChromaticAberration > New bytes: 0x66 0xf 0xef 0xc9 
+RemoveChromaticAberration > Bytes match
+RemoveChromaticAberration > Patch applied
